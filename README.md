@@ -1,5 +1,7 @@
 # mini-games
 
+A selection of mini games, as a way of testing out new tech such as bun.
+
 To install dependencies:
 
 ```bash
